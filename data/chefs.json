@@ -1,0 +1,350 @@
+[
+    {
+        "id": "1",
+        "chef_picture": "https://i.ibb.co/QPWF9H1/chef1.jpg",
+        "details_picture": "https://i.ibb.co/6Ph5cF2/chef1.png",
+        "chef_name": "Alice Smith",
+        "years_of_experience": 10,
+        "number_of_recipes": 50,
+        "likes": 500,
+        "short_bio": "Alice Smith is an accomplished chef with over 10 years of experience in the culinary industry. Her specialties include fusion cuisine and pastry arts.",
+        "recipes": [
+            {
+                "recipe_name": "Thai Red Curry",
+                "ingredients": [
+                    "2 tbsp red curry paste",
+                    "1 can of coconut milk",
+                    "1 lb chicken breast, sliced",
+                    "1 bell pepper, sliced",
+                    "1 onion, sliced",
+                    "1 tbsp fish sauce",
+                    "1 tsp palm sugar",
+                    "1 handful of Thai basil",
+                    "steamed rice, to serve"
+                ],
+                "cooking_method": "1. Heat oil in a wok over medium heat. Add curry paste and stir-fry until fragrant, about 1 minute.\n2. Add chicken and stir-fry until browned, about 3-4 minutes. \n3. Add vegetables and stir-fry for another 3-4 minutes. \n4. Add coconut milk, fish sauce, and sugar. Bring to a boil and then reduce heat to low. Simmer for 10-15 minutes, until sauce thickens. \n5. Garnish with Thai basil and serve with steamed rice.",
+                "rating": 4.5
+            },
+            {
+                "recipe_name": "Classic Croissants",
+                "ingredients": [
+                    "4 cups all-purpose flour",
+                    "1/4 cup sugar",
+                    "2 tsp salt",
+                    "2 1/4 tsp active dry yeast",
+                    "1 1/2 cups cold unsalted butter, cubed",
+                    "1 1/4 cups cold water",
+                    "1 egg",
+                    "1 tbsp milk"
+                ],
+                "cooking_method": "1. In a large mixing bowl, combine flour, sugar, salt, and yeast. \n2. Add cold butter and mix until the butter is in pea-sized pieces. \n3. Add cold water and mix until a dough forms. \n4. Knead the dough for 5 minutes, then let it rest in the fridge for 30 minutes. \n5. Roll the dough out into a rectangle and fold it in thirds like a letter. Repeat this process 3 more times, resting the dough in the fridge for 30 minutes between each fold. \n6. Roll the dough out into a large rectangle and cut into triangles. \n7. Roll each triangle into a croissant shape and place on a baking sheet lined with parchment paper. \n8. Let the croissants rise for 1 hour. \n9. Preheat the oven to 400°F. \n10. Mix together egg and milk, then brush the mixture onto the croissants. \n11. Bake for 15-20 minutes, until golden brown. \n12. Serve warm.",
+                "rating": 4.8
+            },
+            {
+                "recipe_name": "Spicy Chicken Stir Fry",
+                "ingredients": [
+                    "1 pound boneless, skinless chicken breasts, cut into bite-sized pieces",
+                    "1 red bell pepper, sliced",
+                    "1 green bell pepper, sliced",
+                    "1 onion, sliced",
+                    "3 cloves garlic, minced",
+                    "2 tablespoons vegetable oil",
+                    "1/4 cup soy sauce",
+                    "1 tablespoon honey",
+                    "1 teaspoon red pepper flakes",
+                    "1/4 teaspoon black pepper",
+                    "2 cups cooked white rice"
+                ],
+                "cooking_method": "1. In a large skillet, heat vegetable oil over medium-high heat.\n2. Add chicken and cook until browned and cooked through, about 5-7 minutes.\n3. Add bell peppers, onion, and garlic to the skillet and stir-fry for another 2-3 minutes.\n4. In a small bowl, whisk together soy sauce, honey, red pepper flakes, and black pepper.\n5. Pour the sauce into the skillet and stir-fry for another 2-3 minutes, until the sauce thickens and coats the chicken and vegetables.\n6. Serve over cooked white rice.",
+                "rating": 4.5
+            }
+        ]
+    },
+    {
+        "id": "2",
+        "chef_picture": "https://i.ibb.co/d5P8Pjg/chef2.jpg",
+        "details_picture": "https://i.ibb.co/GWrdTnT/chef2.png",
+        "chef_name": "Bob Johnson",
+        "years_of_experience": 5,
+        "number_of_recipes": 30,
+        "likes": 250,
+        "short_bio": "Bob Johnson is a rising star in the culinary world, with a passion for farm-to-table cooking and innovative flavor combinations.",
+        "recipes": [
+            {
+                "recipe_name": "Pesto Pasta with Roasted Tomatoes and Mozzarella",
+                "ingredients": [
+                    "1 pound spaghetti",
+                    "2 cups cherry tomatoes",
+                    "2 cloves garlic, minced",
+                    "1/4 cup olive oil",
+                    "1/4 cup pesto",
+                    "8 ounces fresh mozzarella, diced",
+                    "1/4 teaspoon salt",
+                    "1/4 teaspoon black pepper"
+                ],
+                "cooking_method": "1. Preheat the oven to 400°F.\n2. Toss cherry tomatoes with garlic, olive oil, salt, and black pepper, and spread them out on a baking sheet.\n3. Roast the tomatoes in the oven for 15-20 minutes, or until they are soft and slightly caramelized.\n4. Meanwhile, cook the spaghetti in a large pot of salted boiling water, according to package instructions.\n5. Drain the spaghetti and toss it with pesto in a large bowl.\n6. Add the roasted tomatoes and diced mozzarella to the bowl, and toss to combine.\n7. Serve hot.",
+                "rating": 4.6
+            },
+            {
+                "recipe_name": "Classic Croissants",
+                "ingredients": [
+                    "4 cups all-purpose flour",
+                    "1/4 cup sugar",
+                    "2 tsp salt",
+                    "2 1/4 tsp active dry yeast",
+                    "1 1/2 cups cold unsalted butter, cubed",
+                    "1 1/4 cups cold water",
+                    "1 egg",
+                    "1 tbsp milk"
+                ],
+                "cooking_method": "1. In a large mixing bowl, combine flour, sugar, salt, and yeast. \n2. Add cold butter and mix until the butter is in pea-sized pieces. \n3. Add cold water and mix until a dough forms. \n4. Knead the dough for 5 minutes, then let it rest in the fridge for 30 minutes. \n5. Roll the dough out into a rectangle and fold it in thirds like a letter. Repeat this process 3 more times, resting the dough in the fridge for 30 minutes between each fold. \n6. Roll the dough out into a large rectangle and cut into triangles. \n7. Roll each triangle into a croissant shape and place on a baking sheet lined with parchment paper. \n8. Let the croissants rise for 1 hour. \n9. Preheat the oven to 400°F. \n10. Mix together egg and milk, then brush the mixture onto the croissants. \n11. Bake for 15-20 minutes, until golden brown. \n12. Serve warm.",
+                "rating": 4.8
+            },
+            {
+                "recipe_name": "Roasted Salmon with Lemon and Dill",
+                "ingredients": [
+                    "1 pound salmon fillet",
+                    "1 lemon, thinly sliced",
+                    "3 sprigs fresh dill",
+                    "2 tablespoons olive oil",
+                    "1/4 teaspoon salt",
+                    "1/4 teaspoon black pepper"
+                ],
+                "cooking_method": "1. Preheat the oven to 400°F.\n2. Line a baking sheet with parchment paper.\n3. Place the salmon fillet on the prepared baking sheet.\n4. Drizzle olive oil over the salmon, and season with salt and black pepper.\n5. Arrange lemon slices and dill sprigs on top of the salmon.\n6. Roast in the oven for 12-15 minutes, or until the salmon is cooked through and flakes easily with a fork.\n7. Serve hot.",
+                "rating": 4.8
+            }
+        ]
+    },
+    {
+        "id": "3",
+        "chef_picture": "https://i.ibb.co/WcxKjqm/chef3.jpg",
+        "details_picture": "https://i.ibb.co/PtDnybC/chef3.png",
+        "chef_name": "Cathy Lee",
+        "years_of_experience": 15,
+        "number_of_recipes": 75,
+        "likes": 1000,
+        "short_bio": "Cathy Lee is a seasoned chef with over 15 years of experience in fine dining. Her specialties include classic French cuisine and seafood dishes.",
+        "recipes": [
+            {
+                "recipe_name": "Thai Red Curry",
+                "ingredients": [
+                    "2 tbsp red curry paste",
+                    "1 can of coconut milk",
+                    "1 lb chicken breast, sliced",
+                    "1 bell pepper, sliced",
+                    "1 onion, sliced",
+                    "1 tbsp fish sauce",
+                    "1 tsp palm sugar",
+                    "1 handful of Thai basil",
+                    "steamed rice, to serve"
+                ],
+                "cooking_method": "1. Heat oil in a wok over medium heat. Add curry paste and stir-fry until fragrant, about 1 minute.\n2. Add chicken and stir-fry until browned, about 3-4 minutes. \n3. Add vegetables and stir-fry for another 3-4 minutes. \n4. Add coconut milk, fish sauce, and sugar. Bring to a boil and then reduce heat to low. Simmer for 10-15 minutes, until sauce thickens. \n5. Garnish with Thai basil and serve with steamed rice.",
+                "rating": 4.5
+            },
+            {
+                "recipe_name": "Classic Croissants",
+                "ingredients": [
+                    "4 cups all-purpose flour",
+                    "1/4 cup sugar",
+                    "2 tsp salt",
+                    "2 1/4 tsp active dry yeast",
+                    "1 1/2 cups cold unsalted butter, cubed",
+                    "1 1/4 cups cold water",
+                    "1 egg",
+                    "1 tbsp milk"
+                ],
+                "cooking_method": "1. In a large mixing bowl, combine flour, sugar, salt, and yeast. \n2. Add cold butter and mix until the butter is in pea-sized pieces. \n3. Add cold water and mix until a dough forms. \n4. Knead the dough for 5 minutes, then let it rest in the fridge for 30 minutes. \n5. Roll the dough out into a rectangle and fold it in thirds like a letter. Repeat this process 3 more times, resting the dough in the fridge for 30 minutes between each fold. \n6. Roll the dough out into a large rectangle and cut into triangles. \n7. Roll each triangle into a croissant shape and place on a baking sheet lined with parchment paper. \n8. Let the croissants rise for 1 hour. \n9. Preheat the oven to 400°F. \n10. Mix together egg and milk, then brush the mixture onto the croissants. \n11. Bake for 15-20 minutes, until golden brown. \n12. Serve warm.",
+                "rating": 4.8
+            },
+            {
+                "recipe_name": "Spicy Chicken Stir Fry",
+                "ingredients": [
+                    "1 pound boneless, skinless chicken breasts, cut into bite-sized pieces",
+                    "1 red bell pepper, sliced",
+                    "1 green bell pepper, sliced",
+                    "1 onion, sliced",
+                    "3 cloves garlic, minced",
+                    "2 tablespoons vegetable oil",
+                    "1/4 cup soy sauce",
+                    "1 tablespoon honey",
+                    "1 teaspoon red pepper flakes",
+                    "1/4 teaspoon black pepper",
+                    "2 cups cooked white rice"
+                ],
+                "cooking_method": "1. In a large skillet, heat vegetable oil over medium-high heat.\n2. Add chicken and cook until browned and cooked through, about 5-7 minutes.\n3. Add bell peppers, onion, and garlic to the skillet and stir-fry for another 2-3 minutes.\n4. In a small bowl, whisk together soy sauce, honey, red pepper flakes, and black pepper.\n5. Pour the sauce into the skillet and stir-fry for another 2-3 minutes, until the sauce thickens and coats the chicken and vegetables.\n6. Serve over cooked white rice.",
+                "rating": 4.5
+            }
+        ]
+    },
+    {
+        "id": "4",
+        "chef_picture": "https://i.ibb.co/TvkmHKs/chef4.jpg",
+        "details_picture": "https://i.ibb.co/vkZZ7mP/chef4.png",
+        "chef_name": "David Kim",
+        "years_of_experience": 8,
+        "number_of_recipes": 40,
+        "likes": 350,
+        "short_bio": "David Kim is a versatile chef with experience in a variety of cuisines, from Korean to Italian. He is particularly known for his use of bold spices and flavors.",
+        "recipes": [
+            {
+                "recipeName": "Pesto Pasta with Roasted Tomatoes and Mozzarella",
+                "ingredients": [
+                    "1 pound spaghetti",
+                    "2 cups cherry tomatoes",
+                    "2 cloves garlic, minced",
+                    "1/4 cup olive oil",
+                    "1/4 cup pesto",
+                    "8 ounces fresh mozzarella, diced",
+                    "1/4 teaspoon salt",
+                    "1/4 teaspoon black pepper"
+                ],
+                "cookingMethod": "1. Preheat the oven to 400°F.\n2. Toss cherry tomatoes with garlic, olive oil, salt, and black pepper, and spread them out on a baking sheet.\n3. Roast the tomatoes in the oven for 15-20 minutes, or until they are soft and slightly caramelized.\n4. Meanwhile, cook the spaghetti in a large pot of salted boiling water, according to package instructions.\n5. Drain the spaghetti and toss it with pesto in a large bowl.\n6. Add the roasted tomatoes and diced mozzarella to the bowl, and toss to combine.\n7. Serve hot.",
+                "rating": 4.6
+            },
+            {
+                "recipe_name": "Classic Croissants",
+                "ingredients": [
+                    "4 cups all-purpose flour",
+                    "1/4 cup sugar",
+                    "2 tsp salt",
+                    "2 1/4 tsp active dry yeast",
+                    "1 1/2 cups cold unsalted butter, cubed",
+                    "1 1/4 cups cold water",
+                    "1 egg",
+                    "1 tbsp milk"
+                ],
+                "cooking_method": "1. In a large mixing bowl, combine flour, sugar, salt, and yeast. \n2. Add cold butter and mix until the butter is in pea-sized pieces. \n3. Add cold water and mix until a dough forms. \n4. Knead the dough for 5 minutes, then let it rest in the fridge for 30 minutes. \n5. Roll the dough out into a rectangle and fold it in thirds like a letter. Repeat this process 3 more times, resting the dough in the fridge for 30 minutes between each fold. \n6. Roll the dough out into a large rectangle and cut into triangles. \n7. Roll each triangle into a croissant shape and place on a baking sheet lined with parchment paper. \n8. Let the croissants rise for 1 hour. \n9. Preheat the oven to 400°F. \n10. Mix together egg and milk, then brush the mixture onto the croissants. \n11. Bake for 15-20 minutes, until golden brown. \n12. Serve warm.",
+                "rating": 4.8
+            },
+            {
+                "recipe_name": "Roasted Salmon with Lemon and Dill",
+                "ingredients": [
+                    "1 pound salmon fillet",
+                    "1 lemon, thinly sliced",
+                    "3 sprigs fresh dill",
+                    "2 tablespoons olive oil",
+                    "1/4 teaspoon salt",
+                    "1/4 teaspoon black pepper"
+                ],
+                "cooking_method": "1. Preheat the oven to 400°F.\n2. Line a baking sheet with parchment paper.\n3. Place the salmon fillet on the prepared baking sheet.\n4. Drizzle olive oil over the salmon, and season with salt and black pepper.\n5. Arrange lemon slices and dill sprigs on top of the salmon.\n6. Roast in the oven for 12-15 minutes, or until the salmon is cooked through and flakes easily with a fork.\n7. Serve hot.",
+                "rating": 4.8
+            }
+        ]
+    },
+    {
+        "id": "5",
+        "chef_picture": "https://i.ibb.co/PGLg8pD/chef5.jpg",
+        "details_picture": "https://i.ibb.co/7QdNRnS/chef5.png",
+        "chef_name": "Eva Chen",
+        "years_of_experience": 12,
+        "number_of_recipes": 60,
+        "likes": 800,
+        "short_bio": "Eva Chen is a creative chef with a passion for experimental cooking techniques and ingredient combinations. She is particularly known for her use of molecular gastronomy.",
+        "recipes": [
+            {
+                "recipe_name": "Pesto Pasta with Roasted Tomatoes and Mozzarella",
+                "ingredients": [
+                    "1 pound spaghetti",
+                    "2 cups cherry tomatoes",
+                    "2 cloves garlic, minced",
+                    "1/4 cup olive oil",
+                    "1/4 cup pesto",
+                    "8 ounces fresh mozzarella, diced",
+                    "1/4 teaspoon salt",
+                    "1/4 teaspoon black pepper"
+                ],
+                "cooking_method": "1. Preheat the oven to 400°F.\n2. Toss cherry tomatoes with garlic, olive oil, salt, and black pepper, and spread them out on a baking sheet.\n3. Roast the tomatoes in the oven for 15-20 minutes, or until they are soft and slightly caramelized.\n4. Meanwhile, cook the spaghetti in a large pot of salted boiling water, according to package instructions.\n5. Drain the spaghetti and toss it with pesto in a large bowl.\n6. Add the roasted tomatoes and diced mozzarella to the bowl, and toss to combine.\n7. Serve hot.",
+                "rating": 4.6
+            },
+            {
+                "recipe_name": "Classic Croissants",
+                "ingredients": [
+                    "4 cups all-purpose flour",
+                    "1/4 cup sugar",
+                    "2 tsp salt",
+                    "2 1/4 tsp active dry yeast",
+                    "1 1/2 cups cold unsalted butter, cubed",
+                    "1 1/4 cups cold water",
+                    "1 egg",
+                    "1 tbsp milk"
+                ],
+                "cooking_method": "1. In a large mixing bowl, combine flour, sugar, salt, and yeast. \n2. Add cold butter and mix until the butter is in pea-sized pieces. \n3. Add cold water and mix until a dough forms. \n4. Knead the dough for 5 minutes, then let it rest in the fridge for 30 minutes. \n5. Roll the dough out into a rectangle and fold it in thirds like a letter. Repeat this process 3 more times, resting the dough in the fridge for 30 minutes between each fold. \n6. Roll the dough out into a large rectangle and cut into triangles. \n7. Roll each triangle into a croissant shape and place on a baking sheet lined with parchment paper. \n8. Let the croissants rise for 1 hour. \n9. Preheat the oven to 400°F. \n10. Mix together egg and milk, then brush the mixture onto the croissants. \n11. Bake for 15-20 minutes, until golden brown. \n12. Serve warm.",
+                "rating": 4.8
+            },
+            {
+                "recipe_name": "Roasted Salmon with Lemon and Dill",
+                "ingredients": [
+                    "1 pound salmon fillet",
+                    "1 lemon, thinly sliced",
+                    "3 sprigs fresh dill",
+                    "2 tablespoons olive oil",
+                    "1/4 teaspoon salt",
+                    "1/4 teaspoon black pepper"
+                ],
+                "cooking_method": "1. Preheat the oven to 400°F.\n2. Line a baking sheet with parchment paper.\n3. Place the salmon fillet on the prepared baking sheet.\n4. Drizzle olive oil over the salmon, and season with salt and black pepper.\n5. Arrange lemon slices and dill sprigs on top of the salmon.\n6. Roast in the oven for 12-15 minutes, or until the salmon is cooked through and flakes easily with a fork.\n7. Serve hot.",
+                "rating": 4.8
+            }
+        ]
+    },
+    {
+        "id": "6",
+        "chef_picture": "https://i.ibb.co/MkkPQVw/chef6.jpg",
+        "details_picture": "https://i.ibb.co/gjqyS8y/chef6.png",
+        "chef_name": "Frank Liu",
+        "years_of_experience": 7,
+        "number_of_recipes": 25,
+        "likes": 150,
+        "short_bio": "Frank Liu is a young chef with a fresh perspective on traditional cuisine. He is particularly known for his innovative use of locally-sourced ingredients.",
+        "recipes": [
+            {
+                "recipe_name": "Thai Red Curry",
+                "ingredients": [
+                    "2 tbsp red curry paste",
+                    "1 can of coconut milk",
+                    "1 lb chicken breast, sliced",
+                    "1 bell pepper, sliced",
+                    "1 onion, sliced",
+                    "1 tbsp fish sauce",
+                    "1 tsp palm sugar",
+                    "1 handful of Thai basil",
+                    "steamed rice, to serve"
+                ],
+                "cooking_method": "1. Heat oil in a wok over medium heat. Add curry paste and stir-fry until fragrant, about 1 minute.\n2. Add chicken and stir-fry until browned, about 3-4 minutes. \n3. Add vegetables and stir-fry for another 3-4 minutes. \n4. Add coconut milk, fish sauce, and sugar. Bring to a boil and then reduce heat to low. Simmer for 10-15 minutes, until sauce thickens. \n5. Garnish with Thai basil and serve with steamed rice.",
+                "rating": 4.5
+            },
+            {
+                "recipe_name": "Classic Croissants",
+                "ingredients": [
+                    "4 cups all-purpose flour",
+                    "1/4 cup sugar",
+                    "2 tsp salt",
+                    "2 1/4 tsp active dry yeast",
+                    "1 1/2 cups cold unsalted butter, cubed",
+                    "1 1/4 cups cold water",
+                    "1 egg",
+                    "1 tbsp milk"
+                ],
+                "cooking_method": "1. In a large mixing bowl, combine flour, sugar, salt, and yeast. \n2. Add cold butter and mix until the butter is in pea-sized pieces. \n3. Add cold water and mix until a dough forms. \n4. Knead the dough for 5 minutes, then let it rest in the fridge for 30 minutes. \n5. Roll the dough out into a rectangle and fold it in thirds like a letter. Repeat this process 3 more times, resting the dough in the fridge for 30 minutes between each fold. \n6. Roll the dough out into a large rectangle and cut into triangles. \n7. Roll each triangle into a croissant shape and place on a baking sheet lined with parchment paper. \n8. Let the croissants rise for 1 hour. \n9. Preheat the oven to 400°F. \n10. Mix together egg and milk, then brush the mixture onto the croissants. \n11. Bake for 15-20 minutes, until golden brown. \n12. Serve warm.",
+                "rating": 4.8
+            },
+            {
+                "recipe_name": "Spicy Chicken Stir Fry",
+                "ingredients": [
+                    "1 pound boneless, skinless chicken breasts, cut into bite-sized pieces",
+                    "1 red bell pepper, sliced",
+                    "1 green bell pepper, sliced",
+                    "1 onion, sliced",
+                    "3 cloves garlic, minced",
+                    "2 tablespoons vegetable oil",
+                    "1/4 cup soy sauce",
+                    "1 tablespoon honey",
+                    "1 teaspoon red pepper flakes",
+                    "1/4 teaspoon black pepper",
+                    "2 cups cooked white rice"
+                ],
+                "cooking_method": "1. In a large skillet, heat vegetable oil over medium-high heat.\n2. Add chicken and cook until browned and cooked through, about 5-7 minutes.\n3. Add bell peppers, onion, and garlic to the skillet and stir-fry for another 2-3 minutes.\n4. In a small bowl, whisk together soy sauce, honey, red pepper flakes, and black pepper.\n5. Pour the sauce into the skillet and stir-fry for another 2-3 minutes, until the sauce thickens and coats the chicken and vegetables.\n6. Serve over cooked white rice.",
+                "rating": 4.5
+            }
+        ]
+    }
+]
